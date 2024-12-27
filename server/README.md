@@ -38,9 +38,12 @@ To run this Crud Application - Using Node & MongoDB project locally, follow thes
 3) Create .env file in server root folder.
 4) In .env file, # MONGO_URI=your-mongodb-atlas-connection-string and PORT (reference sample.env file).
 5) Start the development server using npm run dev or yarn dev.
-6) You have see the message if the server started successfully,
+6) You have seen this below message if the server started successfully,
+
    **Server is running on {your PORT}**
+
    **Connected to MongoDB**
+   
 7) Then Test the apis using postman or any other you familiar with.
 
 ### Technologies Used
