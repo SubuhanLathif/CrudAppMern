@@ -6,7 +6,6 @@ const userSchema  = new mongoose.Schema({
  email:{type:String,required:true,unique:true},
  phoneNo:{type:Number,required:true},   
  gender:{type:String,required:true},
- photo:{type:String},
  photo: { type: String, default: 'https://placehold.co/80x80&text=No+Photo'},
  address:{type:String,required:true},
 });
