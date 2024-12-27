@@ -4,7 +4,7 @@ This folder contains the backend (server-side) logic for the **CrudAppMern** pro
 
 ### Project Structure (MVC Design)
 
-```plaintext
+```plaintextt
 server/
   ├── controllers/
   │   └── controllers.js         # Contains logic for handling API requests
